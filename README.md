@@ -16,7 +16,7 @@
 
 ## Video and Link to Repo
 * <a href="https://github.com/BradenWelsh/socialNetwork" rel="nofollow">https://github.com/BradenWelsh/socialNetwork</a>
-* <img src="./img/mp4.mp4" alt="video of how to use">
+* <img href="https://github.com/BradenWelsh/socialNetwork/blob/main/img/mp4.mp4" alt="video of how to use">
 
 ## Questions ✋
 * ✋ Find me on Github @ [BradenWelsh](http://github.com/BradenWelsh)
